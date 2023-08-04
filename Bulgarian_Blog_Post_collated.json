@@ -1,35 +1,42 @@
 {
-    "count": 4,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "7f854709-1e43-41ca-9e3e-9d5d73ffa67b",
+            "collectionId": "Bulgarian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Bulgarian/7f854709-1e43-41ca-9e3e-9d5d73ffa67b_Bu_Female.mp4"
+        },
         {
             "id": "0c05f8f6-df29-48de-b4d4-558bd998d6e0",
             "collectionId": "Bulgarian",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Bulgarian/Bulgarian_Blog_Post/0c05f8f6-df29-48de-b4d4-558bd998d6e0/0c05f8f6-df29-48de-b4d4-558bd998d6e0_bg_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Bulgarian/0c05f8f6-df29-48de-b4d4-558bd998d6e0_Bu_Female.mp4"
         },
         {
             "id": "095c48c9-0929-4692-bff0-ce624f3ca10a",
             "collectionId": "Bulgarian",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Bulgarian/Bulgarian_Blog_Post/095c48c9-0929-4692-bff0-ce624f3ca10a/095c48c9-0929-4692-bff0-ce624f3ca10a_bg_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Bulgarian/095c48c9-0929-4692-bff0-ce624f3ca10a_Bu_Female.mp4"
         },
         {
             "id": "f766cdff-e458-438e-ad73-f54779833104",
             "collectionId": "Bulgarian",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Bulgarian/Bulgarian_Blog_Post/f766cdff-e458-438e-ad73-f54779833104/f766cdff-e458-438e-ad73-f54779833104_bg_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Bulgarian/f766cdff-e458-438e-ad73-f54779833104_Bu_Female.mp4"
         },
         {
             "id": "c7789903-81ee-4643-aab1-3985536cff6f",
             "collectionId": "Bulgarian",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Bulgarian/Bulgarian_Blog_Post/c7789903-81ee-4643-aab1-3985536cff6f/c7789903-81ee-4643-aab1-3985536cff6f_bg_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Bulgarian/c7789903-81ee-4643-aab1-3985536cff6f_Bu_Female.mp4"
         }
     ]
 }
